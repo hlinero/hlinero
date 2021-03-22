@@ -43,3 +43,7 @@ Here are some ideas to get you started:
 
 ![hlinero's github stats](https://github-readme-stats-gennsev.vercel.app/api?username=hlinero&count_private=true&show_icons=true)
 <br />
+
+**Weekly Coding Stats** 
+
+[![hlinero's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hlinero)](https://github.com/anuraghazra/github-readme-stats)
