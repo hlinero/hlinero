@@ -1,42 +1,18 @@
-<!--
-**hlinero/hlinero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Title -->
+<h1 align="center"><img src = "https://raw.githubusercontent.com/hlinero/hlinero/main/wave.gif" width = 30px> Hi there! I'm Humberto</h1>
 
-Here are some ideas to get you started:
+<!-- Connect with me -->
+## Connect with me
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hlinero/)
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/hlinero18/)
+[![Medium](https://img.shields.io/badge/-Medium-4F5B66?style=flat&labelColor=4F5B66&logo=medium&logoColor=white)](https://www.instagram.com/hlinero18/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
-### Welcome, I'm Humberto 👋 
-
-<!--
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://linkedin.com/in/hlinero/
-
-<br />
-<br />
-
-**Favorite Languages and Tools** 
-
-<img align="left" alt="Kotlin" width="20px" src="http://simpleicons.org/icons/kotlin.svg" />
-<img align="left" alt="Python" width="20px" src="http://simpleicons.org/icons/python.svg" />
-<img align="left" alt="Android" width="20px" src="https://simpleicons.org/icons/android.svg" />
-<img align="left" alt="AndroidStudio" width="20px" src="https://simpleicons.org/icons/androidstudio.svg" />
-<img align="left" alt="AndroidStudio" width="20px" src="https://simpleicons.org/icons/intellijidea.svg" />
-<img align="left" alt="VSCode" width="20px" src="http://simpleicons.org/icons/visualstudiocode.svg" />
-<img align="left" alt="Jupyter" width="20px" src="http://simpleicons.org/icons/jupyter.svg" />
-<img align="left" alt="Git" width="20px" src="http://simpleicons.org/icons/git.svg" />
-<img align="left" alt="HUGO" width="20px" src="http://simpleicons.org/icons/hugo.svg" />
-<img align="left" alt="Netlify" width="20px" src="http://simpleicons.org/icons/netlify.svg" />
-
--->
-
-<br />
-<br />
+<!-- GitHub Stats -->
+ ## GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
+ <div align="center">
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hlinero" alt="Gift's LangStat" />
+   </br>
+   </br>
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hlinero&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/>
+</div>
