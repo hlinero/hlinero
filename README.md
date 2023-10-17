@@ -5,7 +5,7 @@
 ## Connect with me
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hlinero/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/hlinero18/)
-[![Medium](https://img.shields.io/badge/-Medium-4F5B66?style=flat&labelColor=4F5B66&logo=medium&logoColor=white)](https://www.instagram.com/hlinero18/)
+[![Medium](https://img.shields.io/badge/-Medium-4F5B66?style=flat&labelColor=4F5B66&logo=medium&logoColor=white)](https://medium.com/@hlinero)
 
 
 <!-- GitHub Stats -->
